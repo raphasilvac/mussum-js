@@ -5,6 +5,7 @@ Plugin inútil que apelida funções jQuery para mussunês
 
 Exemplos:
 ---------
-mussum('span').removis();
-
-mussum('ul').appendis(li);
+<pre>
+  mussum('span').removis();
+  mussum('ul').appendis(li);
+</pre>
