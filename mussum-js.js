@@ -1,0 +1,1 @@
+window.mussum = $; for(var i in $.fn) {mussum.fn[i.replace(/e$/, '') + 'is'] = $.fn[i];}
